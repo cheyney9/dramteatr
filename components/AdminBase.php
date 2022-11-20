@@ -34,5 +34,9 @@ abstract class AdminBase
         }     
         return false;   
     }
+  
+    public function AddMov(){
+        return 0;
+    }
 
 }
